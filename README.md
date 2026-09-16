@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Harshini 👋
 
-<!--
-**HarshiniThummoju/HarshiniThummoju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently pursuing my data analytics course at Heartland Community College with a background in Biotechnology and certificate in SAS Programming.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Excel
+- SAS & Clinical SAS
+- Tableau
+- R Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Goals
+- Preparing for entry-level Clinical SAS Programmer roles
+- Building projects in Clinical SAS.
