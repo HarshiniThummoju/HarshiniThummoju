@@ -1,13 +1,18 @@
-# Hi, I'm Harshini 👋
+Harshini Thummoju
+Data Analytics Student | SQL • R • SAS • Excel | Clinical SAS Aspirant
 
-I'm currently pursuing my data analytics course at Heartland Community College with a background in Biotechnology and certificate in SAS Programming.
+🔍 Passionate about turning raw data into clear insights
+📊 Building projects in SAS
+🎓 Biotechnology background + SAS Programming Certificate (2016)
+📚 Currently pursuing advanced Data Analytics coursework at HCC
 
-### 🔧 Skills
+🔧 Skills
 - Excel
 - SAS & Clinical SAS
 - Tableau
 - R Programming
 
-### 🎯 Current Goals
-- Preparing for entry-level Clinical SAS Programmer roles
-- Building projects in Clinical SAS.
+🎯 Current Goals
+- Preparing for entry‑level Clinical SAS Programmer roles
+- Strengthening SQL, R, and SAS through real‑world projects
+- Completing advanced Data Analytics coursework at HCC
